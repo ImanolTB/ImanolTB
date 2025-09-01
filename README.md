@@ -33,9 +33,8 @@ Aplicación backend para gestión de tickets con arquitectura de microservicios.
 ---
 
 ## 📬 Conecta conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/in/imanol-trespaderne-bar%C3%B3n/)  
-- 🐙 [GitHub](https://github.com/ImanolTB)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/imanol-trespaderne-bar%C3%B3n/)   
 
 ---
 
-✨ *“El código es como el deporte: constancia, disciplina y mejora continua son la clave para llegar lejos.”*  
+
