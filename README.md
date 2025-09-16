@@ -8,14 +8,14 @@
 ## 🚀 Sobre mí  
 - 📍 Sevilla, España  
 - 🎯 Enfocado en crear soluciones digitales que combinan **funcionalidad + diseño**    
-- 🤝 Abierto a colaborar en proyectos innovadores y retadores  
+- 🤝 Abierto a colaborar en proyectos innovadores y que supongan un reto a nivel personal.
 
 ---
 
 ## 🛠️ Tecnologías que uso a diario  
 - **Frontend:** Angular · TypeScript · JavaScript · Tailwind · HTML5 · CSS3  
 - **Backend:** Java · Spring Boot · REST APIs · MySQL · Docker · JWT · RabbitMQ · WebSocket  
-- **Otros:** Git · Scrum ·   
+- **Otros:** Git · Scrum · Postman  
 
 ---
 
